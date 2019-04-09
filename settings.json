@@ -79,6 +79,7 @@
         "valarray": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled",
+    "editor.tabSize": 2,
     "C_Cpp.clang_format_fallbackStyle": 
     "{ BasedOnStyle: LLVM, IndentWidth: 2, ColumnLimit: 80, PointerAlignment: Right}"
 }
